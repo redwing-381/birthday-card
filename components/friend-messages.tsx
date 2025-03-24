@@ -33,7 +33,7 @@ const messages: FriendMessage[] = [
   {
     id: 4,
     name: "Varsha",
-    message: "Many happy returns of the day! Keep shining on and off the court. You're truly amazing!",
+    message: "You will always be my little one 💯🥹❤️ Twinn loves you moreee❤️",
   },
   {
     id: 5,
