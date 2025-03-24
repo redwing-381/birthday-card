@@ -55,7 +55,7 @@ export default function BirthdayCard() {
           <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-pink-500 text-transparent bg-clip-text">
             Happy Birthday!
           </h1>
-          <h2 className="text-3xl font-semibold mt-2 text-purple-700">MOULIESWARI N K</h2>
+          <h2 className="text-3xl font-semibold mt-2 text-purple-700">MOULIESWARI</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
